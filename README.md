@@ -1,2 +1,2 @@
-# husni-mart
+# husni-shop
 Husni Shop App
